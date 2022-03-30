@@ -1,1 +1,1 @@
-ALX Courses are great and intersting
+ALX Courses are great and intersting!
