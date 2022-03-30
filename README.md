@@ -1,1 +1,1 @@
-My first readme
+ALX courses are great and interesting
